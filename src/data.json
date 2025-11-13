@@ -1,0 +1,107 @@
+ [
+  {
+    "id": 1,
+    "company": "Toyota",
+    "color": "white",
+    "price": 18900,
+    "image": "./cars/car1.jpg"
+  },
+  {
+    "id": 2,
+    "company": "Honda",
+    "color": "blue",
+    "price": 20500,
+      "image": "./cars/car2.jpg"
+  },
+  {
+    "id": 3,
+    "company": "BMW",
+    "color": "black",
+    "price": 38900,
+    "image": "./cars/car3.jpg"
+  },
+  {
+    "id": 4,
+    "company": "Mercedes",
+    "color": "silver",
+    "price": 42200,
+     "image": "./cars/car4.jpg"
+  },
+  {
+    "id": 5,
+    "company": "Audi",
+    "color": "gray",
+    "price": 36500,
+    "image": "./cars/car5.jpg"
+  },
+  {
+    "id": 6,
+    "company": "Tesla",
+    "color": "red",
+    "price": 45900,
+     "image": "./cars/car6.jpg"
+  },
+  {
+    "id": 7,
+    "company": "Ford",
+    "color": "blue",
+    "price": 21400,
+     "image": "./cars/car7.jpg"
+  },
+  {
+    "id": 8,
+    "company": "Chevrolet",
+    "color": "white",
+    "price": 22750,
+      "image": "./cars/car8.jpg"
+  },
+  {
+    "id": 9,
+    "company": "Hyundai",
+    "color": "green",
+    "price": 17800,
+     "image": "./cars/car9.jpg"
+  },
+  {
+    "id": 10,
+    "company": "Kia",
+    "color": "yellow",
+    "price": 18300,
+      "image": "./cars/car10.jpg"
+  },
+  {
+    "id": 11,
+    "company": "Nissan",
+    "color": "silver",
+    "price": 19950,
+    "image": "./cars/car11.jpg"
+  },
+  {
+    "id": 12,
+    "company": "Volkswagen",
+    "color": "black",
+    "price": 24800,
+      "image": "./cars/car12.jpg"
+  },
+  {
+    "id": 13,
+    "company": "Volvo",
+    "color": "white",
+    "price": 37100,
+     "image": "./cars/car13.jpg"
+  },
+  {
+    "id": 14,
+    "company": "Mazda",
+    "color": "red",
+    "price": 22100,
+     "image": "./cars/car14.jpg"
+  },
+  {
+    "id": 15,
+    "company": "Subaru",
+    "color": "blue",
+    "price": 23300,
+      "image": "./cars/car15.jpg"
+  }
+]
